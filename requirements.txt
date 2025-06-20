@@ -1,39 +1,12 @@
-# --- Streamlit 앱 실행 필수 ---
 streamlit==1.33.0
-openpyxl
-pyarrow
-
-# --- 데이터 처리 및 분석 ---
 pandas
 numpy
-scipy
-statsmodels
-
-# --- 시각화 ---
-matplotlib
-seaborn
 plotly
-altair
-
-# --- 머신러닝 & 모델링 ---
+matplotlib
+openpyxl
 scikit-learn
 xgboost
-lightgbm
 catboost
-
-# --- 텍스트 처리 ---
-nltk
-textblob
-
-# --- 기타 데이터 유틸리티 ---
-joblib
-tqdm
-
-# --- 데이터 입출력/변환 ---
-requests
-beautifulsoup4
-lxml
-
-# --- 고급 시각화 및 대시보드 (선택적) ---
-pydeck
-pillow
+lightgbm
+seaborn
+scipy
